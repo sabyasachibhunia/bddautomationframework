@@ -1,0 +1,4 @@
+stepdefinitions\blogstep.class
+stepdefinitions\Hooks.class
+stepdefinitions\loginstep.class
+runner\TestRunner.class
